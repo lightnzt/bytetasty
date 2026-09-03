@@ -47,15 +47,15 @@ document.querySelectorAll('.lang button').forEach(function(b){b.addEventListener
 
 // ---------- студия ----------
 const studio = page({
-  root: '', title: 'Norkztt', desc: 'Norkztt — простые приложения без аккаунтов, рекламы и слежки.',
+  root: '', title: 'Norkztt', desc: 'Norkztt — простые приложения без аккаунтов и рекламы. Данные остаются у вас.',
   body: `
 <section class="hero">
   <div class="L" lang="ru">
-    <h1>Простые приложения.<br>Без аккаунтов, рекламы и&nbsp;слежки.</h1>
+    <h1>Простые приложения.<br>Без аккаунтов и&nbsp;рекламы.</h1>
     <p class="lead">Norkztt делает маленькие приложения, которые делают одно дело хорошо и хранят данные только у вас.</p>
   </div>
   <div class="L" lang="en">
-    <h1>Simple apps.<br>No accounts, no ads, no&nbsp;tracking.</h1>
+    <h1>Simple apps.<br>No accounts, no&nbsp;ads.</h1>
     <p class="lead">Norkztt makes small apps that do one thing well and keep your data on your device.</p>
   </div>
 </section>
