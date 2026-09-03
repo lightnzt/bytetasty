@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#050508">
+<meta name="description" content="Norkztt — простые приложения без аккаунтов, рекламы и слежки.">
+<title>Norkztt</title>
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="site.css">
+<script>(function(){var l=null;try{l=localStorage.getItem('nz.lang');}catch(e){}if(!l){l=((navigator.language||'ru').slice(0,2)==='ru')?'ru':'en';}document.documentElement.setAttribute('data-lang',l);document.documentElement.lang=l;})();</script>
+</head>
+<body>
+<div class="glow" aria-hidden="true"></div>
+<header class="top">
+  <a class="brand" href="index.html"><svg class="nmark" viewBox="0 0 64 64" aria-hidden="true"><defs><linearGradient id="ng" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#5EE3E6"/><stop offset=".55" stop-color="#8E9BFF"/><stop offset="1" stop-color="#F49BE0"/></linearGradient></defs><rect width="64" height="64" rx="16" fill="#0E1116"/><path d="M22 46V18l20 28V18" fill="none" stroke="url(#ng)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></svg><span>NORKZTT</span></a>
+  <div class="lang" role="group" aria-label="Language">
+    <button type="button" data-set="ru">RU</button><button type="button" data-set="en">EN</button>
+  </div>
+</header>
+<main class="wrap">
+
+<section class="hero">
+  <div class="L" lang="ru">
+    <h1>Простые приложения.<br>Без аккаунтов, рекламы и&nbsp;слежки.</h1>
+    <p class="lead">Norkztt делает маленькие приложения, которые делают одно дело хорошо и хранят данные только у вас.</p>
+  </div>
+  <div class="L" lang="en">
+    <h1>Simple apps.<br>No accounts, no ads, no&nbsp;tracking.</h1>
+    <p class="lead">Norkztt makes small apps that do one thing well and keep your data on your device.</p>
+  </div>
+</section>
+<section class="apps">
+  <a class="card app" href="due/index.html">
+    <img src="due/icon.png" alt="" width="72" height="72">
+    <div>
+      <div class="eyebrow"><span class="L" lang="ru">Android · бесплатно</span><span class="L" lang="en">Android · free</span></div>
+      <h2>Norkztt Due</h2>
+      <p><span class="L" lang="ru">Все подписки и платежи — в одном месте</span><span class="L" lang="en">Every subscription and bill — in one place</span></p>
+    </div>
+    <span class="arrow" aria-hidden="true">→</span>
+  </a>
+</section>
+</main>
+<footer class="foot">
+  <span>© 2026 Norkztt</span>
+  <a href="mailto:norkztt@gmail.com">norkztt@gmail.com</a>
+</footer>
+<script>
+document.querySelectorAll('.lang button').forEach(function(b){b.addEventListener('click',function(){var l=b.dataset.set;document.documentElement.setAttribute('data-lang',l);document.documentElement.lang=l;try{localStorage.setItem('nz.lang',l);}catch(e){}});});
+</script>
+</body>
+</html>
