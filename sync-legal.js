@@ -1,7 +1,7 @@
 // Переносит правовые тексты и описания из словаря приложения (app/i18n.js) в legal.json сайта.
-// Запуск: node sync-legal.js [путь к i18n.js]   (по умолчанию ../NorkzttDue/app/i18n.js)
+// Запуск: node sync-legal.js [путь к i18n.js]   (по умолчанию ../Due/app/i18n.js)
 const fs = require('fs'), path = require('path');
-const src = process.argv[2] || path.join(__dirname, '..', 'NorkzttDue', 'app', 'i18n.js');
+const src = process.argv[2] || path.join(__dirname, '..', 'Due', 'app', 'i18n.js');
 const code = fs.readFileSync(src, 'utf8');
 const I18N = new Function(code + '\nreturn I18N;')();
 const pick = d => ({
