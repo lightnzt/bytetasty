@@ -1,58 +1,58 @@
 {
- "ru": {
-  "privacy": "Мы спроектировали Norkztt Due так, чтобы ваши данные оставались только у вас.\n\n1. Все данные (имя профиля, платежи, суммы, категории, доход) хранятся локально на вашем устройстве. Разработчик не получает к ним доступ, не собирает, не хранит и не передаёт их — ни сам, ни через третьих лиц.\n2. Приложение работает полностью офлайн: у него нет доступа в интернет, нет регистрации и аккаунтов, нет рекламы, аналитики и трекеров.\n3. Разрешение на уведомления используется только для напоминаний о датах платежей; уведомления формируются на самом устройстве. Разрешение можно отозвать в настройках системы в любой момент.\n4. Резервная копия создаётся только по вашей команде и сохраняется или отправляется туда, куда вы сами выберете. За хранение файла копии вне приложения отвечает выбранное вами хранилище.\n5. Удаление приложения удаляет все его данные с устройства (созданные вами файлы резервных копий остаются там, куда вы их сохранили).\n6. Приложение не предназначено для детей и не собирает сведения о ком бы то ни было, включая детей.\n7. Политика может обновляться. Актуальная редакция всегда доступна в приложении и на странице приложения в магазине.\n\nРедакция от 27 августа 2026 г.",
-  "terms": "Norkztt Due — приложение для личного учёта регулярных платежей и напоминаний о них.\n\n1. Приложение не является платёжным сервисом, не проводит платежи, не подключается к банкам и платёжным системам и не даёт финансовых, юридических или налоговых рекомендаций.\n2. Все данные вводятся пользователем вручную и служат только для личного учёта. Расчёты (суммы за период, пересчёт валют по заданному пользователем курсу) носят справочный характер и могут отличаться от фактических списаний.\n3. Приложение предоставляется бесплатно и «как есть». В пределах, допускаемых применимым правом, разработчик не отвечает за пропущенные платежи, пени и иные последствия использования: напоминания — вспомогательный инструмент, работа которого зависит от настроек устройства (разрешение на уведомления, режимы энергосбережения).\n4. Права на приложение — код, дизайн, логотип, значки и тексты — принадлежат Norkztt. Открытые компоненты используются по их лицензиям (раздел «Лицензии»). Названия сервисов, которые вы вводите сами, остаются собственностью их правообладателей и служат только для вашей личной пометки платежей.\n5. Условия могут обновляться. Актуальная редакция всегда доступна в приложении; продолжение использования после обновления означает согласие с новой редакцией.\n6. Обратная связь — через контакты разработчика, указанные на странице приложения в магазине приложений.\n\nРедакция от 27 августа 2026 г.",
-  "oss": "Norkztt Due использует открытые компоненты:\n\n• Шрифт Inter — © The Inter Project Authors, лицензия SIL Open Font License 1.1\n• Шрифт Unbounded — © The Unbounded Project Authors, лицензия SIL Open Font License 1.1\n• Библиотека анимаций Motion — © Motion contributors, лицензия MIT\n• Библиотеки AndroidX — © Google LLC, лицензия Apache License 2.0\n• Стандартная библиотека Kotlin — © JetBrains s.r.o., лицензия Apache License 2.0\n\nПолные тексты лицензий: scripts.sil.org/OFL, opensource.org/license/mit, apache.org/licenses/LICENSE-2.0.\nВсе остальные элементы приложения — дизайн, значки, логотип, тексты и код — созданы Norkztt и являются его собственностью.",
-  "privacy_t": "Политика конфиденциальности",
-  "terms_t": "Пользовательское соглашение",
-  "oss_t": "Лицензии открытого ПО",
-  "cover": "Все подписки и платежи — в одном месте",
-  "ob": [
-   [
-    "Все платежи — на одном экране",
-    "Подписки, кредиты, ЖКХ, долги. Что, когда, сколько и где продлевать."
-   ],
-   [
-    "Напоминания, которые не дают забыть",
-    "За день до оплаты и в день оплаты, в удобное для тебя время. А можно и без напоминаний."
-   ],
-   [
-    "Любые свои категории",
-    "Кредит за авто, мамин интернет, долг другу — учитывай всё и как угодно."
-   ],
-   [
-    "Сводки: считай как хочешь",
-    "«Только кредиты», «подписки + интернет» — любые комбинации с мгновенным итогом."
-   ]
-  ],
-  "local": "Все данные хранятся только на этом устройстве"
- },
- "en": {
-  "privacy": "Norkztt Due is designed so your data stays with you.\n\n1. All data (profile name, payments, amounts, categories, income) is stored locally on your device. The developer does not access, collect, store or share it — neither directly nor through third parties.\n2. The app works fully offline: it has no internet access, no registration or accounts, no ads, no analytics, no trackers.\n3. The notification permission is used only for payment-date reminders; notifications are generated on the device itself. You can revoke the permission in system settings at any time.\n4. A backup is created only on your command and is saved or sent wherever you choose. Storage of the backup file outside the app is the responsibility of the storage you selected.\n5. Uninstalling the app removes all its data from the device (backup files you created remain where you saved them).\n6. The app is not directed at children and does not collect information about anyone, including children.\n7. This policy may be updated. The current version is always available in the app and on the app’s store page.\n\nLast updated: August 27, 2026",
-  "terms": "Norkztt Due is an app for personal tracking of recurring payments and reminders about them.\n\n1. The app is not a payment service: it does not process payments, does not connect to banks or payment systems, and does not provide financial, legal or tax advice.\n2. All data is entered manually by the user and serves personal record-keeping only. Calculations (period totals, currency conversion at a user-defined rate) are for reference and may differ from actual charges.\n3. The app is provided free of charge, “as is”. To the extent permitted by applicable law, the developer is not liable for missed payments, fees or other consequences of use: reminders are an auxiliary tool and depend on device settings (notification permission, battery-saving modes).\n4. The app — its code, design, logo, icons and texts — belongs to Norkztt. Open-source components are used under their licenses (see “Licenses”). Names of services you enter yourself remain the property of their owners and are used only as your personal labels.\n5. These terms may be updated. The current version is always available in the app; continued use after an update means acceptance of the new version.\n6. Contact: via the developer contacts listed on the app’s store page.\n\nLast updated: August 27, 2026",
-  "oss": "Norkztt Due uses open-source components:\n\n• Inter font — © The Inter Project Authors, SIL Open Font License 1.1\n• Unbounded font — © The Unbounded Project Authors, SIL Open Font License 1.1\n• Motion animation library — © Motion contributors, MIT License\n• AndroidX libraries — © Google LLC, Apache License 2.0\n• Kotlin standard library — © JetBrains s.r.o., Apache License 2.0\n\nFull license texts: scripts.sil.org/OFL, opensource.org/license/mit, apache.org/licenses/LICENSE-2.0.\nEverything else — design, icons, logo, texts and code — is created and owned by Norkztt.",
-  "privacy_t": "Privacy Policy",
-  "terms_t": "Terms of Use",
-  "oss_t": "Open-source licenses",
-  "cover": "Every subscription and bill — in one place",
-  "ob": [
-   [
-    "Every payment on one screen",
-    "Subscriptions, loans, utilities, debts. What, when, how much and where to renew."
-   ],
-   [
-    "Reminders that won’t let you forget",
-    "The day before and on the day, at a time you choose. Or no reminders at all."
-   ],
-   [
-    "Any categories you like",
-    "Car loan, mom’s internet, a debt to a friend — track anything, your way."
-   ],
-   [
-    "Summaries: count it your way",
-    "“Loans only”, “subscriptions + internet” — any combination, instant totals."
-   ]
-  ],
-  "local": "All data stays on this device only"
- }
+  "ru": {
+    "privacy": "Мы спроектировали Due так, чтобы ваши данные оставались только у вас.\n\n1. Все данные (имя профиля, платежи, суммы, категории, доход) хранятся локально на вашем устройстве. Разработчик не получает к ним доступ, не собирает, не хранит и не передаёт их — ни сам, ни через третьих лиц.\n2. Приложение работает полностью офлайн: у него нет доступа в интернет, нет регистрации и аккаунтов, нет рекламы, аналитики и трекеров.\n3. Разрешение на уведомления используется только для напоминаний о датах платежей; уведомления формируются на самом устройстве. Разрешение можно отозвать в настройках системы в любой момент.\n4. Резервная копия создаётся только по вашей команде и сохраняется или отправляется туда, куда вы сами выберете. За хранение файла копии вне приложения отвечает выбранное вами хранилище.\n5. Удаление приложения удаляет все его данные с устройства (созданные вами файлы резервных копий остаются там, куда вы их сохранили).\n6. Приложение не предназначено для детей и не собирает сведения о ком бы то ни было, включая детей.\n7. Политика может обновляться. Актуальная редакция всегда доступна в приложении и на странице приложения в магазине.\n\nРедакция от 27 августа 2026 г.",
+    "terms": "Due — приложение для личного учёта регулярных платежей и напоминаний о них.\n\n1. Приложение не является платёжным сервисом, не проводит платежи, не подключается к банкам и платёжным системам и не даёт финансовых, юридических или налоговых рекомендаций.\n2. Все данные вводятся пользователем вручную и служат только для личного учёта. Расчёты (суммы за период, пересчёт валют по заданному пользователем курсу) носят справочный характер и могут отличаться от фактических списаний.\n3. Приложение предоставляется бесплатно и «как есть». В пределах, допускаемых применимым правом, разработчик не отвечает за пропущенные платежи, пени и иные последствия использования: напоминания — вспомогательный инструмент, работа которого зависит от настроек устройства (разрешение на уведомления, режимы энергосбережения).\n4. Права на приложение — код, дизайн, логотип, значки и тексты — принадлежат ByteTasty. Открытые компоненты используются по их лицензиям (раздел «Лицензии»). Названия сервисов, которые вы вводите сами, остаются собственностью их правообладателей и служат только для вашей личной пометки платежей.\n5. Условия могут обновляться. Актуальная редакция всегда доступна в приложении; продолжение использования после обновления означает согласие с новой редакцией.\n6. Обратная связь — через контакты разработчика, указанные на странице приложения в магазине приложений.\n\nРедакция от 27 августа 2026 г.",
+    "oss": "Due использует открытые компоненты:\n\n• Шрифт Inter — © The Inter Project Authors, лицензия SIL Open Font License 1.1\n• Шрифт Tektur — © 2023 The Tektur Project Authors, лицензия SIL Open Font License 1.1\n• Библиотека анимаций Motion — © Motion contributors, лицензия MIT\n• Библиотеки AndroidX — © Google LLC, лицензия Apache License 2.0\n• Стандартная библиотека Kotlin — © JetBrains s.r.o., лицензия Apache License 2.0\n\nПолные тексты лицензий: scripts.sil.org/OFL, opensource.org/license/mit, apache.org/licenses/LICENSE-2.0.\nВсе остальные элементы приложения — дизайн, значки, логотип, тексты и код — созданы ByteTasty и являются его собственностью.",
+    "privacy_t": "Политика конфиденциальности",
+    "terms_t": "Пользовательское соглашение",
+    "oss_t": "Лицензии открытого ПО",
+    "cover": "Все подписки и платежи — в одном месте",
+    "ob": [
+      [
+        "Все платежи — на одном экране",
+        "Подписки, кредиты, ЖКХ, долги. Что, когда, сколько и где продлевать."
+      ],
+      [
+        "Напоминания, которые не дают забыть",
+        "За день до оплаты и в день оплаты, в удобное для тебя время. А можно и без напоминаний."
+      ],
+      [
+        "Любые свои категории",
+        "Кредит за авто, мамин интернет, долг другу — учитывай всё и как угодно."
+      ],
+      [
+        "Сводки: считай как хочешь",
+        "«Только кредиты», «подписки + интернет» — любые комбинации с мгновенным итогом."
+      ]
+    ],
+    "local": "Все данные хранятся только на этом устройстве"
+  },
+  "en": {
+    "privacy": "Due is designed so your data stays with you.\n\n1. All data (profile name, payments, amounts, categories, income) is stored locally on your device. The developer does not access, collect, store or share it — neither directly nor through third parties.\n2. The app works fully offline: it has no internet access, no registration or accounts, no ads, no analytics, no trackers.\n3. The notification permission is used only for payment-date reminders; notifications are generated on the device itself. You can revoke the permission in system settings at any time.\n4. A backup is created only on your command and is saved or sent wherever you choose. Storage of the backup file outside the app is the responsibility of the storage you selected.\n5. Uninstalling the app removes all its data from the device (backup files you created remain where you saved them).\n6. The app is not directed at children and does not collect information about anyone, including children.\n7. This policy may be updated. The current version is always available in the app and on the app’s store page.\n\nLast updated: August 27, 2026",
+    "terms": "Due is an app for personal tracking of recurring payments and reminders about them.\n\n1. The app is not a payment service: it does not process payments, does not connect to banks or payment systems, and does not provide financial, legal or tax advice.\n2. All data is entered manually by the user and serves personal record-keeping only. Calculations (period totals, currency conversion at a user-defined rate) are for reference and may differ from actual charges.\n3. The app is provided free of charge, “as is”. To the extent permitted by applicable law, the developer is not liable for missed payments, fees or other consequences of use: reminders are an auxiliary tool and depend on device settings (notification permission, battery-saving modes).\n4. The app — its code, design, logo, icons and texts — belongs to ByteTasty. Open-source components are used under their licenses (see “Licenses”). Names of services you enter yourself remain the property of their owners and are used only as your personal labels.\n5. These terms may be updated. The current version is always available in the app; continued use after an update means acceptance of the new version.\n6. Contact: via the developer contacts listed on the app’s store page.\n\nLast updated: August 27, 2026",
+    "oss": "Due uses open-source components:\n\n• Inter font — © The Inter Project Authors, SIL Open Font License 1.1\n• Tektur font — © 2023 The Tektur Project Authors, SIL Open Font License 1.1\n• Motion animation library — © Motion contributors, MIT License\n• AndroidX libraries — © Google LLC, Apache License 2.0\n• Kotlin standard library — © JetBrains s.r.o., Apache License 2.0\n\nFull license texts: scripts.sil.org/OFL, opensource.org/license/mit, apache.org/licenses/LICENSE-2.0.\nEverything else — design, icons, logo, texts and code — is created and owned by ByteTasty.",
+    "privacy_t": "Privacy Policy",
+    "terms_t": "Terms of Use",
+    "oss_t": "Open-source licenses",
+    "cover": "Every subscription and bill — in one place",
+    "ob": [
+      [
+        "Every payment on one screen",
+        "Subscriptions, loans, utilities, debts. What, when, how much and where to renew."
+      ],
+      [
+        "Reminders that won’t let you forget",
+        "The day before and on the day, at a time you choose. Or no reminders at all."
+      ],
+      [
+        "Any categories you like",
+        "Car loan, mom’s internet, a debt to a friend — track anything, your way."
+      ],
+      [
+        "Summaries: count it your way",
+        "“Loans only”, “subscriptions + internet” — any combination, instant totals."
+      ]
+    ],
+    "local": "All data stays on this device only"
+  }
 }
